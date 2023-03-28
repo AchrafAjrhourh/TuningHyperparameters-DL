@@ -1,3 +1,5 @@
+# Bank Customer Churn Prediction using DNN and Hyperparameter Tuning with Talos
+
 # Description:
 A deep neural network model to predict customer churn in the banking industry, leveraging the Bank Customer Churn dataset from Kaggle and employing random search for hyperparameter tuning to optimize model performance.
 
